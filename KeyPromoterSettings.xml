@@ -1,0 +1,31 @@
+<application>
+  <component name="KeyPromoterSettings">
+    <option name="backgroundColor">
+      <map>
+        <entry key="alpha" value="255" />
+        <entry key="blue" value="53" />
+        <entry key="green" value="51" />
+        <entry key="red" value="49" />
+      </map>
+    </option>
+    <option name="borderColor">
+      <map>
+        <entry key="alpha" value="255" />
+        <entry key="blue" value="81" />
+        <entry key="green" value="81" />
+        <entry key="red" value="81" />
+      </map>
+    </option>
+    <option name="textColor">
+      <map>
+        <entry key="alpha" value="255" />
+        <entry key="blue" value="187" />
+        <entry key="green" value="187" />
+        <entry key="red" value="187" />
+      </map>
+    </option>
+    <option name="flashAnimationDelay" value="0" />
+    <option name="fixedTipPosistion" value="true" />
+    <option name="popupTemplate" value="&lt;html&gt;&#10; &lt;body&gt;&#10;  &lt;table&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=6&gt;{0}&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=4&gt;{1} time(s)&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;  &lt;/table&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;" />
+  </component>
+</application>
