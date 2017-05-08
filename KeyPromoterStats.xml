@@ -2,10 +2,12 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+Insert'" value="2" />
-        <entry key="'Ctrl+Alt+S'" value="10" />
-        <entry key="'Ctrl+F5'" value="1" />
+        <entry key="'Alt+Delete'" value="1" />
+        <entry key="'Alt+Insert'" value="3" />
+        <entry key="'Ctrl+Alt+S'" value="13" />
+        <entry key="'Ctrl+F5'" value="2" />
         <entry key="'Ctrl+NumPad -' or 'Ctrl+Minus'" value="1" />
+        <entry key="'Enter'" value="1" />
       </map>
     </option>
   </component>
