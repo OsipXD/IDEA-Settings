@@ -4,9 +4,11 @@
       <map>
         <entry key="'Alt+8'" value="1" />
         <entry key="'Alt+F7'" value="1" />
+        <entry key="'Ctrl+Alt+A'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="3" />
         <entry key="'Ctrl+Alt+Shift+U'" value="3" />
         <entry key="'Ctrl+F9'" value="1" />
+        <entry key="'Ctrl+K'" value="1" />
         <entry key="'E'" value="2" />
         <entry key="'F4'" value="4" />
         <entry key="'F5'" value="3" />
