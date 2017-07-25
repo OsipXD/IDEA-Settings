@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'BukkitMimic'" />
-    <option name="defaultScopeName" value="Project 'BukkitMimic'" />
+    <option name="customScope" value="Directory '[BukkitMimic_test] - ...\src\test'" />
+    <option name="defaultScopeName" value="Directory '[BukkitMimic_test] - ...\src\test'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'BukkitMimic'" />
+    <option name="SEARCH_SCOPE" value="Directory '[BukkitMimic_test] - ...\src\test'" />
   </component>
 </application>
