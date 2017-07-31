@@ -98,5 +98,13 @@
         </Item>
       </Statistic>
     </option>
+    <option name="suppressed">
+      <Statistic Action="Refresh all Gradle projects">
+        <Item>
+          <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
+          <Description>Refresh all Gradle projects</Description>
+        </Item>
+      </Statistic>
+    </option>
   </component>
 </application>
