@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
