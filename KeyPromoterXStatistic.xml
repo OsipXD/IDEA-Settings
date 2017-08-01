@@ -115,7 +115,7 @@
           <IdeaActionID />
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RPGInventory [build]'">
@@ -148,6 +148,14 @@
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RPGInventory [build]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'RPGInventory [build]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RPGInventory:core:bukkit [buil...'">
