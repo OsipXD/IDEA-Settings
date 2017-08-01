@@ -182,6 +182,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'RPGInventory [shadowJar]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'RPGInventory [shadowJar]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'RPGInventory:core:bukkit [buil...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
