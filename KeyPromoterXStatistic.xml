@@ -158,6 +158,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FirstGame:desktop [dist]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'FirstGame:desktop [dist]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RPGInventory [build]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
