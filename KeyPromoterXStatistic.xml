@@ -92,7 +92,7 @@
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
           <ShortCut>'Button2 Click'</ShortCut>
           <Description>Paste from X clipboard</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -123,7 +123,7 @@
           <IdeaActionID />
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BukkitGradle [build]'">
@@ -139,7 +139,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RPGInventory [build]'</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RPGInventory:core [build]'">
@@ -258,6 +258,12 @@
         <Item>
           <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
           <Description>Refresh all Gradle projects</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show in File Manager">
+        <Item>
+          <IdeaActionID>RevealIn</IdeaActionID>
+          <Description>Show in File Manager</Description>
         </Item>
       </Statistic>
     </option>
