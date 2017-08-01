@@ -55,6 +55,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste from X clipboard">
         <Item>
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
@@ -106,7 +114,7 @@
         <Item>
           <ShortCut>'Ctrl+Alt+Shift+J' or 'Alt+Enter'</ShortCut>
           <Description>Select All Occurrences</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
