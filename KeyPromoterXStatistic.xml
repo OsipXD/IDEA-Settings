@@ -48,14 +48,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Edit">
         <Item>
           <IdeaActionID />
@@ -76,6 +68,22 @@
           <IdeaActionID />
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Enter'</ShortCut>
           <Description />
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -243,7 +251,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'DesktopLauncher'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DesktopLauncher.main()'">
