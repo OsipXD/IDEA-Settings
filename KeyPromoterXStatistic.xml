@@ -53,7 +53,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -147,7 +147,7 @@
           <IdeaActionID />
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BukkitGradle [build]'">
@@ -238,12 +238,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DesktopLauncher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DesktopLauncher'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DesktopLauncher.main()'">
         <Item>
           <IdeaActionID />
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DesktopLauncher.main()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RPGInventory [build]'">
