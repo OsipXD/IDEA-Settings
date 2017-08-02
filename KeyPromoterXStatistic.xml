@@ -9,19 +9,42 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <ShortCut>'Ctrl+Shift+F4'</ShortCut>
+          <Description>Close</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Enter'</ShortCut>
+          <Description>Edit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic>
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Enter'</ShortCut>
+          <Description />
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Close">
-        <Item>
-          <ShortCut>'Ctrl+Shift+F4'</ShortCut>
-          <Description>Close</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -48,35 +71,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Edit">
-        <Item>
-          <IdeaActionID />
-          <ShortCut>'Enter'</ShortCut>
-          <Description>Edit</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Hide">
-        <Item>
-          <ShortCut>'Shift+Escape'</ShortCut>
-          <Description>Hide</Description>
-          <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic>
-        <Item>
-          <IdeaActionID />
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Enter'</ShortCut>
-          <Description />
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -108,6 +108,14 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -172,6 +180,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Desktop'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DesktopLauncher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'DesktopLauncher'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FirstGame:desktop [dist]'">
