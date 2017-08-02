@@ -16,6 +16,30 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Commit Message History">
+        <Item>
+          <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
+          <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
+          <Description>Commit Message History</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit">
         <Item>
           <IdeaActionID />
@@ -47,36 +71,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Commit Message History">
-        <Item>
-          <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
-          <ShortCut>'Ctrl+M' or 'Ctrl+E'</ShortCut>
-          <Description>Commit Message History</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Commit...">
-        <Item>
-          <IdeaActionID>CheckinProject</IdeaActionID>
-          <ShortCut>'Ctrl+K'</ShortCut>
-          <Description>Commit...</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Compare With...">
-        <Item>
-          <IdeaActionID>CompareTwoFiles</IdeaActionID>
-          <ShortCut>'Ctrl+D'</ShortCut>
-          <Description>Compare With...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -187,7 +187,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'DesktopLauncher'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FirstGame:desktop [dist]'">
@@ -276,6 +276,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DesktopLauncher.main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Drop:desktop [dist]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Drop:desktop [dist]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RPGInventory [build]'">
