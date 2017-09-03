@@ -1,1 +1,14 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <HoconCodeStyleSettings>
+    <option name="KEEP_BLANK_LINES_IN_LISTS" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACKET" value="1" />
+  </HoconCodeStyleSettings>
+  <codeStyleSettings language="HOCON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
