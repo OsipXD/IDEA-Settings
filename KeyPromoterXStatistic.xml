@@ -22,7 +22,7 @@
           <IdeaActionID>Kotlin.NewFile</IdeaActionID>
           <ShortCut>'Shift+C'</ShortCut>
           <Description>Kotlin File/Class</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">
