@@ -129,6 +129,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ProductHuntApiTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ProductHuntApiTest (1)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProductHuntApiTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ProductHuntApiTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RPGInventory [build]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -198,7 +214,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ProductHuntApiTest'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RPGInventory [build]'">
@@ -326,7 +342,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>15</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
