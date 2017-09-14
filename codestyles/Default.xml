@@ -1,4 +1,7 @@
 <code_scheme name="Default">
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
   <HoconCodeStyleSettings>
     <option name="KEEP_BLANK_LINES_IN_LISTS" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
