@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +102,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -262,7 +262,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'kotlin in app'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'producthunt-client [build]'">
@@ -318,7 +318,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
