@@ -326,7 +326,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'producthunt-client [build]'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'producthunt-client [clean]'">
@@ -399,6 +399,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'producthunt-client [build]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'producthunt-client [build]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'producthunt-client [connectedAndroidTest]'">
