@@ -30,7 +30,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>204</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>77</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'kotlin in app'">
