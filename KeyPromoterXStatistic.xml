@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>15</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Unit Tests'">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>176</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -294,7 +294,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>16</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -310,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'All Unit Tests'</Description>
-          <Count>31</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BukkitGradle [build]'">
@@ -382,7 +382,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'producthunt-client [build]'</Description>
-          <Count>35</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'producthunt-client [clean]'">
@@ -390,7 +390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'producthunt-client [clean]'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'producthunt-client [test]'">
