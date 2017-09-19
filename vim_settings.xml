@@ -15,12 +15,12 @@
       <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/MyPreloadModuleProvider.java" timestamp="1505818722046">
         <mark key="[" line="34" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" timestamp="1505818886458">
+      <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" timestamp="1505818923067">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="127" column="11" />
-        <mark key="]" line="129" column="66" />
-        <mark key="." line="127" column="11" />
-        <mark key="^" line="127" column="10" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/adapter/ItemsAdapter.kt" timestamp="1505818032035">
         <mark key="[" line="38" column="0" />
