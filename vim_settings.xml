@@ -2,14 +2,127 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Dev/producthunt-client/README.md" timestamp="1505816897753">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dev/producthunt-client/app/build.gradle" timestamp="1505817978442">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="84" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/MyPreloadModuleProvider.java" timestamp="1505818722046">
+        <mark key="[" line="34" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" timestamp="1505818886458">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="127" column="11" />
+        <mark key="]" line="129" column="66" />
+        <mark key="." line="127" column="11" />
+        <mark key="^" line="127" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/adapter/ItemsAdapter.kt" timestamp="1505818032035">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="60" column="48" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+      <jump line="84" column="12" filename="$USER_HOME$/Dev/producthunt-client/app/build.gradle" />
+      <jump line="80" column="4" filename="$USER_HOME$/Dev/producthunt-client/app/build.gradle" />
+      <jump line="86" column="0" filename="$USER_HOME$/Dev/producthunt-client/app/build.gradle" />
+      <jump line="72" column="0" filename="$USER_HOME$/Dev/producthunt-client/app/build.gradle" />
+      <jump line="78" column="0" filename="$USER_HOME$/Dev/producthunt-client/app/build.gradle" />
+      <jump line="79" column="4" filename="$USER_HOME$/Dev/producthunt-client/app/build.gradle" />
+      <jump line="69" column="8" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+      <jump line="68" column="0" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+      <jump line="66" column="4" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+      <jump line="63" column="8" filename="$USER_HOME$/Dev/producthunt-client/app/src/main/kotlin/ru/endlesscode/producthuntlite/ui/fragment/ItemsFragment.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>return GlideApp.with(fragment)
+                    .load(url)
+                    .override(imageWidthPixels, imageHeightPixels)</text>
+      </register>
+      <register name="-" type="4">
+        <text>Collections.</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjokZ2xpZGVWZXJzaW9uIgo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>return GlideApp.with(fragment)
+                    .load(url)
+                    .override(imageWidthPixels, imageHeightPixels)</text>
+      </register>
+      <register name="2" type="4">
+        <text>return GlideApp.with(fragment)
+                    .load(url)
+                    .override(imageWidthPixels, imageHeightPixels)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>public class MyPreloadModuleProvider {
+}</text>
+      </register>
+      <register name="5" type="4">
+        <text>public class MyPreloadModuleProvider {
+}</text>
+      </register>
+      <register name="6" type="4">
+        <text>public class MyPreloadModuleProvider {
+}</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZ2V0SXRlbVZpZXdUeXBlKHBvc2l0aW9uOiBJbnQpOiBJbnQgewogICAgICAgIHJldHVybiBSZWN5Y2xlclZpZXcuTk8KICAgIH0KICAgIHY=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5nb29nbGUuY29kZS5nc29uOmdzb246JGdzb25WZXJzaW9uIgogICAgY29tcGlsZSAiY29tLmdpdGh1Yi5idW1wdGVjaC5nbGlkZTpnbGlkZTokZ2xpZGVWZXJzaW9uIgo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gZ2V0SXRlbVZpZXdUeXBlKHBvc2l0aW9uOiBJbnQpOiBJbnQgewogICAgICAgIHJldHVybiBSZWN5Y2xlclZpZXcuTk9fSUQKICAgIH0Kdg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>help</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
