@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>391</Count>
+          <Count>399</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,7 +110,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>65</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Spek Tests'">
@@ -422,7 +422,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>251</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
@@ -606,7 +606,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>25</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
