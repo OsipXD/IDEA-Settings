@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>473</Count>
+          <Count>478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -583,6 +583,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'bb-test-task [jacocoUnitTestReport]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'bb-test-task [jacocoUnitTestReport]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'producthunt-client [build]'">
