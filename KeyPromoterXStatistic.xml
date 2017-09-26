@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>122</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Spek Tests'">
