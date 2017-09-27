@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>606</Count>
+          <Count>609</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>133</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Spek Tests'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>293</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
