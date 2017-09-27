@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>612</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>137</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Spek Tests'">
@@ -694,7 +694,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
