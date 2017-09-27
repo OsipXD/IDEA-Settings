@@ -7,6 +7,10 @@
       <blacklist language="Groovy" />
       <blacklist language="Kotlin">
         <added pattern="com.nhaarman.mockito_kotlin.times(numInvocations)" />
+        <added pattern="com.nhaarman.mockito_kotlin.eq(value)" />
+        <added pattern="org.jetbrains.spek.api.dsl.it(description,body)" />
+        <added pattern="org.jetbrains.spek.api.dsl.on(description,body)" />
+        <added pattern="org.jetbrains.spek.api.dsl.context(description,body)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
