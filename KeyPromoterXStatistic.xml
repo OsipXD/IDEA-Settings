@@ -478,7 +478,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>302</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
