@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>698</Count>
+          <Count>699</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -142,7 +142,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Kotlin File/Class">
@@ -366,7 +366,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -615,6 +615,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ru.endlesscode.chatter.client....'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ru.miet.otik.lab3.AnalyzeKt'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ru.miet.otik.lab3.AnalyzeKt'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
