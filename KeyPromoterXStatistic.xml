@@ -1,6 +1,22 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="ADB Restart">
+        <Item>
+          <IdeaActionID>com.layernet.adbwifi.AdbRestartAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+R'</ShortCut>
+          <Description>ADB Restart</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="ADB USB to WIFI">
+        <Item>
+          <IdeaActionID>com.layernet.adbwifi.AdbWifiAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+W'</ShortCut>
+          <Description>ADB USB to WIFI</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add">
         <Item>
           <IdeaActionID>Git.Add</IdeaActionID>
@@ -558,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>304</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
@@ -838,7 +854,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
