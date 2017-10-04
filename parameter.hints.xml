@@ -13,6 +13,8 @@
         <added pattern="org.jetbrains.spek.api.dsl.context(description,body)" />
         <added pattern="org.gradle.api.plugins.ObjectConfigurationAction.plugin(pluginId)" />
         <added pattern="kotlin.collections.mapOf(pairs)" />
+        <added pattern="kotlin.test.assertTrue(actual)" />
+        <added pattern="kotlin.test.assertFalse(actual)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
