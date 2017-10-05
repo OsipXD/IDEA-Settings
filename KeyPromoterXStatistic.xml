@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -574,7 +574,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>321</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
@@ -854,7 +854,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
