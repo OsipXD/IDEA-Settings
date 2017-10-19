@@ -9,7 +9,9 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="locales" type="PLAIN_TEXT" />
       <mapping pattern="FileNotExistsDialog" type="PLAIN_TEXT" />
+      <mapping pattern="one" type="PLAIN_TEXT" />
       <mapping pattern="auth_toolbar" type="PLAIN_TEXT" />
+      <mapping pattern="two" type="PLAIN_TEXT" />
       <mapping pattern="kotlin-version" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
