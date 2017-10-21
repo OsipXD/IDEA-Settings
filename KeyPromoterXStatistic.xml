@@ -1030,7 +1030,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>41</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
