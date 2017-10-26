@@ -342,7 +342,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -566,7 +566,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>221</Count>
+          <Count>222</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/osipxd/Dev/BinaryBlitz/P...'">
@@ -726,7 +726,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>386</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
@@ -974,7 +974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'app'</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'bb-test-task [check]'">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>132</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1070,7 +1070,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>52</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
