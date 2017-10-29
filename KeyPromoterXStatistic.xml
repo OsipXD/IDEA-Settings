@@ -78,7 +78,7 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Change Signature...</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -350,7 +350,7 @@
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
           <ShortCut>'Button2 Click'</ShortCut>
           <Description>Paste from X clipboard</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
