@@ -17,6 +17,7 @@
         <added pattern="kotlin.test.assertFalse(actual)" />
         <added pattern="org.jetbrains.spek.api.dsl.given(description,body)" />
         <added pattern="ru.binaryblitz.fuelup.extension.aws.awsSignUpHandler(onSuccess,onFailure)" />
+        <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
