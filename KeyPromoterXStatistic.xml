@@ -305,12 +305,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Make Project">
+        <Item>
+          <IdeaActionID>MakeGradleProject</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Make Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Messages">
         <Item>
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -614,7 +622,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>229</Count>
+          <Count>232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/osipxd/Dev/BinaryBlitz/P...'">
@@ -889,6 +897,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ru.binaryblitz.fuelup.data.aut...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ru.binaryblitz.fuelup.data.aut...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ru.endlesscode.chatter.client....'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -975,6 +991,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'All Unit Tests'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AwsCognitoSpec'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AwsCognitoSpec'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Debug Server'">
