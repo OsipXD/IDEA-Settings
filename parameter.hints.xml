@@ -16,11 +16,14 @@
         <added pattern="kotlin.test.assertTrue(actual)" />
         <added pattern="kotlin.test.assertFalse(actual)" />
         <added pattern="org.jetbrains.spek.api.dsl.given(description,body)" />
+        <added pattern="ru.binaryblitz.fuelup.extension.aws.awsSignUpHandler(onSuccess,onFailure)" />
+        <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
+        <added pattern="ru.binaryblitz.fuelup.extension.aws.userAttributes(attributes)" />
+        <added pattern="ru.binaryblitz.fuelup.test.cognito.testAuthHandler(credentialsProvider,regionName,userPoolId)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
-    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
   </component>
 </application>
