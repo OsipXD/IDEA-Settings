@@ -161,6 +161,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Specs in Lab2'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Specs in Lab2'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'UdpConnectionSpec'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -191,6 +199,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'kotlin in app'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ru.endlesscode.miet.taiak.lab1...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ru.endlesscode.miet.taiak.lab1...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -230,7 +246,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -262,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
-          <Count>425</Count>
+          <Count>447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -270,7 +286,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>58</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide Grid">
@@ -382,7 +398,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -414,7 +430,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -529,6 +545,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Specs in Lab2'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Specs in Lab2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'app'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -593,12 +617,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ru.endlesscode.miet.taiak.lab1.MainKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ru.endlesscode.miet.taiak.lab1.MainKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -606,7 +638,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>19</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -630,7 +662,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>242</Count>
+          <Count>243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/osipxd/Dev/BinaryBlitz/P...'">
@@ -782,6 +814,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Run'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Specs in Lab2'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Specs in Lab2'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1006,7 +1046,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>82</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1014,7 +1054,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>101</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All Specs'">
@@ -1078,6 +1118,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Passcity-Android [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Specs in Lab2'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Specs in Lab2'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1153,6 +1201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ru.endlesscode.miet.taiak.lab1.MainKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ru.endlesscode.miet.taiak.lab1.MainKt'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -1174,7 +1230,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1182,7 +1238,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>166</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
