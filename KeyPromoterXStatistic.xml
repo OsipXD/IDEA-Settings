@@ -593,6 +593,14 @@
           <Count>37</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'playground in app'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'playground in app'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'producthunt-client [build]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1182,6 +1190,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'build'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'playground in app'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'playground in app'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
