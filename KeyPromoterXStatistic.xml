@@ -94,7 +94,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -662,7 +662,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>251</Count>
+          <Count>255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/osipxd/Dev/BinaryBlitz/P...'">
@@ -758,6 +758,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ExampleUnitTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FuelUP-Android:app [assemble]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FuelUP-Android:app [assemble]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -870,7 +878,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>406</Count>
+          <Count>407</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
@@ -1238,7 +1246,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>179</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
