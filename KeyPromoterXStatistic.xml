@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>48</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Specs'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'All Unit Tests'</Description>
-          <Count>12</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Debug Server'">
@@ -273,6 +273,14 @@
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="GoTo">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>GoTo</Description>
+          <Count>451</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>91</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -446,7 +454,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'All Unit Tests'</Description>
-          <Count>115</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CommandExecutionSpec'">
@@ -585,14 +593,6 @@
           <Count>37</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'playground in app'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'playground in app'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'producthunt-client [build]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -654,7 +654,7 @@
           <IdeaActionID>Git.Reword.Commit</IdeaActionID>
           <ShortCut>'F2' or 'Shift+F6'</ShortCut>
           <Description>Reword...</Description>
-          <Count>3</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -702,7 +702,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'All Unit Tests'</Description>
-          <Count>100</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All UnitTests'">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'All Unit Tests'</Description>
-          <Count>34</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AwsCognitoSpec'">
@@ -1185,14 +1185,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'playground in app'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'playground in app'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'producthunt-client [build]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1246,7 +1238,15 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>176</Count>
+          <Count>179</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>28</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>87</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
@@ -1299,25 +1299,9 @@
           <Count>949</Count>
         </Item>
       </Statistic>
-      <Statistic Action="GoTo">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
-          <Description>GoTo</Description>
-          <Count>456</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Hide Empty Middle Packages">
         <Item>
           <Description>Hide Empty Middle Packages</Description>
-        </Item>
-      </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'Ctrl+F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>181</Count>
         </Item>
       </Statistic>
     </option>
