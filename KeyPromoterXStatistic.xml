@@ -1094,7 +1094,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>122</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All Specs'">
