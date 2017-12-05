@@ -22,7 +22,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>44</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -366,7 +366,7 @@
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -383,14 +383,6 @@
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Paste from X clipboard">
-        <Item>
-          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
-          <ShortCut>'Button2 Click'</ShortCut>
-          <Description>Paste from X clipboard</Description>
-          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -567,14 +559,6 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Run Server Real'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Rerun 'Run Server Real'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Specs in Lab2'">
@@ -1201,14 +1185,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'Run Server Real'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'Ctrl+F2'</ShortCut>
-          <Description>Stop 'Run Server Real'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Specs in Lab2'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1326,7 +1302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>214</Count>
+          <Count>218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
@@ -1350,7 +1326,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
@@ -1382,6 +1358,14 @@
       <Statistic Action="Hide Empty Middle Packages">
         <Item>
           <Description>Hide Empty Middle Packages</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
