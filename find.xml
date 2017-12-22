@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'library'" />
-    <option name="defaultScopeName" value="Module 'library'" />
-    <option name="SEARCH_SCOPE" value="Module 'library'" />
+    <option name="customScope" value="Module 'sample'" />
+    <option name="defaultScopeName" value="Module 'sample'" />
+    <option name="SEARCH_SCOPE" value="Module 'sample'" />
   </component>
 </application>
