@@ -22,7 +22,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>289</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>195</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
