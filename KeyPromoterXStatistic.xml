@@ -414,7 +414,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -710,7 +710,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>263</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '/home/osipxd/Dev/BinaryBlitz/P...'">
@@ -934,7 +934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>419</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>323</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
