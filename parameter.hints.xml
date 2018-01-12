@@ -23,6 +23,7 @@
         <added pattern="retrofit2.http.PUT(value)" />
         <added pattern="retrofit2.http.GET(value)" />
         <added pattern="retrofit2.http.POST(value)" />
+        <added pattern="android.content.SharedPreferences.getString(p0,p1)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
