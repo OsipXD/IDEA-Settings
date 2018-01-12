@@ -20,6 +20,9 @@
         <added pattern="org.mockito.invocation.InvocationOnMock.getArgument(index)" />
         <added pattern="ru.binaryblitz.fuelup.extension.aws.userAttributes(attributes)" />
         <added pattern="ru.binaryblitz.fuelup.test.cognito.testAuthHandler(credentialsProvider,regionName,userPoolId)" />
+        <added pattern="retrofit2.http.PUT(value)" />
+        <added pattern="retrofit2.http.GET(value)" />
+        <added pattern="retrofit2.http.POST(value)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
