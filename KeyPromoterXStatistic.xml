@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>50</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>345</Count>
+          <Count>350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>231</Count>
+          <Count>234</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
