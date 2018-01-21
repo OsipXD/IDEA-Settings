@@ -15,9 +15,10 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="locales" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
-      <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="kt___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern="toggle_torch_selector.xml" type="XML" />
       <mapping pattern="widget_auth_bottom_buttons" type="XML" />
     </extensionMap>
