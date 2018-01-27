@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -785,6 +785,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Clean-Architecture-Android [wr...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Clean-Architecture-Android [wr...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CommandExecutionSpec'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -934,7 +942,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>428</Count>
+          <Count>431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'bb-test-task [build]'">
