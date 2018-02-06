@@ -366,7 +366,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>63</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -847,6 +847,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'FuelUP-Android:app [kaptDebugU...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Github [clean]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Github [clean]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main'">
