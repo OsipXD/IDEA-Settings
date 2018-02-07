@@ -366,7 +366,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>102</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -374,7 +374,7 @@
           <IdeaActionID>MakeGradleProject</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Make Project</Description>
-          <Count>81</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -862,7 +862,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Github [clean]'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main'">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>426</Count>
+          <Count>428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update PlantUml Diagrams - changes only">
@@ -1430,7 +1430,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>276</Count>
+          <Count>277</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
