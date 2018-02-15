@@ -25,6 +25,7 @@
         <added pattern="retrofit2.http.POST(value)" />
         <added pattern="android.content.SharedPreferences.getString(p0,p1)" />
         <added pattern="android.arch.persistence.room.Query(value)" />
+        <added pattern="android.arch.persistence.room.Index(value,name,unique)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
