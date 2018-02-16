@@ -9,6 +9,7 @@
       <mapping pattern="auth_toolbar" type="PLAIN_TEXT" />
       <mapping pattern="FileNotExistsDialog" type="PLAIN_TEXT" />
       <mapping pattern="Notice" type="PLAIN_TEXT" />
+      <mapping pattern="github-data" type="PLAIN_TEXT" />
       <mapping pattern="two" type="PLAIN_TEXT" />
       <mapping pattern="kotlin-version" type="PLAIN_TEXT" />
       <mapping pattern="as" type="PLAIN_TEXT" />
